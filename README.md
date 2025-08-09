@@ -1,0 +1,2 @@
+# -gomokuA1
+student
