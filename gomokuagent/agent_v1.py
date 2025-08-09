@@ -23,7 +23,7 @@ class StudentLLMAgent(Agent):
     def __init__(self, agent_id: str):
         super().__init__(agent_id)
         self._setup()
-        print(f"🎓 Created StudentLLMAgent: {agent_id}")
+        print(f" Created StudentLLMAgent: {agent_id}")
 
     def _setup(self):
         """Setup our LLM client and prompts."""
